@@ -26,9 +26,7 @@ The key objectives are:
 
 The CEV model describes the underlying stock-price dynamics as:
 
-[
-dS_t = rS_tdt + \sigma S_t^{\beta/2}dW_t
-]
+[ dS_t = rS_tdt +\sigma S_t^{\beta/2} dW_t ]
 
 Where:
 
